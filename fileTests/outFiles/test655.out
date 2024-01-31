@@ -1,0 +1,172 @@
+Welcome to the world of MtmChkin!!!
+Please enter team size: (2-6)
+Please insert the player name and class: 
+You have entered too many words. Please try again.
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+Please insert the player name and class: 
+You have entered too many words. Please try again.
+Please insert the player name and class: 
+Please insert the player name and class: 
+You have entered too many words. Please try again.
+
+-------------------------------------------
+Start of round 1:
+
+Start of veryVeryVeryBad's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+veryVeryVeryBad has 10 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+veryVeryVeryBad has paid 10 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          veryVeryVeryBad 1         6     100   0     Warrior  
+
+-------------------------------------------
+Start of round 2:
+
+Start of veryVeryVeryBad's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          veryVeryVeryBad 1         6     100   10    Warrior  
+
+-------------------------------------------
+Start of round 3:
+
+Start of veryVeryVeryBad's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+veryVeryVeryBad has 10 coins
+veryVeryVeryBad has paid 5 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          veryVeryVeryBad 1         6     100   5     Warrior  
+
+-------------------------------------------
+Start of round 4:
+
+Start of veryVeryVeryBad's turn: 
+Player veryVeryVeryBad has defeated Witch and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          veryVeryVeryBad 2         6     100   7     Warrior  
+
+-------------------------------------------
+Start of round 5:
+
+Start of veryVeryVeryBad's turn: 
+Player veryVeryVeryBad has defeated Witch and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          veryVeryVeryBad 3         6     100   9     Warrior  
+
+-------------------------------------------
+Start of round 6:
+
+Start of veryVeryVeryBad's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+veryVeryVeryBad has 9 coins
+veryVeryVeryBad has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          veryVeryVeryBad 3         6     100   9     Warrior  
+
+-------------------------------------------
+Start of round 7:
+
+Start of veryVeryVeryBad's turn: 
+Player veryVeryVeryBad has defeated Gremlin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          veryVeryVeryBad 4         6     100   11    Warrior  
+
+-------------------------------------------
+Start of round 8:
+
+Start of veryVeryVeryBad's turn: 
+Player veryVeryVeryBad has defeated Witch and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          veryVeryVeryBad 5         6     100   13    Warrior  
+
+-------------------------------------------
+Start of round 9:
+
+Start of veryVeryVeryBad's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+veryVeryVeryBad has 13 coins
+veryVeryVeryBad has paid 10 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          veryVeryVeryBad 5         7     100   3     Warrior  
+
+-------------------------------------------
+Start of round 10:
+
+Start of veryVeryVeryBad's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+veryVeryVeryBad has 3 coins
+You dont have enough coins for this purchase. Please try again.
+veryVeryVeryBad has paid 0 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          veryVeryVeryBad 5         7     100   3     Warrior  
+
+-------------------------------------------
+Start of round 11:
+
+Start of veryVeryVeryBad's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          veryVeryVeryBad 5         7     100   3     Warrior  
+
+-------------------------------------------
+Start of round 12:
+
+Start of veryVeryVeryBad's turn: 
+Player veryVeryVeryBad has been defeated by a Dragon.
+The Game has ended!!!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          veryVeryVeryBad 5         7     0     3     Warrior  

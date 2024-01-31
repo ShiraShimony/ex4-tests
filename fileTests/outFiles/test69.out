@@ -1,0 +1,68 @@
+Welcome to the world of MtmChkin!!!
+Please enter team size: (2-6)
+Please insert the player name and class: 
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+
+-------------------------------------------
+Start of round 1:
+
+Start of good's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          good            1         5     90    10    Warrior  
+
+-------------------------------------------
+Start of round 2:
+
+Start of good's turn: 
+Player good has defeated Gremlin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          good            2         5     90    12    Warrior  
+
+-------------------------------------------
+Start of round 3:
+
+Start of good's turn: 
+Player good has defeated Witch and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          good            3         5     90    14    Warrior  
+
+-------------------------------------------
+Start of round 4:
+
+Start of good's turn: 
+Player good has defeated Witch and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          good            4         5     90    16    Warrior  
+
+-------------------------------------------
+Start of round 5:
+
+Start of good's turn: 
+Player good has defeated Witch and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          good            5         5     90    18    Warrior  
+
+-------------------------------------------
+Start of round 6:
+
+Start of good's turn: 
+Player good has been defeated by a Dragon.
+The Game has ended!!!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          good            5         5     0     18    Warrior  

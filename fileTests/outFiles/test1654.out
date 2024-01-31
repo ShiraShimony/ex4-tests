@@ -1,0 +1,449 @@
+Welcome to the world of MtmChkin!!!
+Please enter team size: (2-6)
+Please insert the player name and class: 
+Please insert the player name and class: 
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+Please insert the player name and class: 
+Please insert the player name and class: 
+You have entered too many words. Please try again.
+Please insert the player name and class: 
+
+-------------------------------------------
+Start of round 1:
+
+Start of good's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+good has 10 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+good has paid 0 coins 
+Safe travels!
+Start of good's turn: 
+Nothing happened.
+Start of veryVeryVeryBad's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          good            1         5     100   10    Ninja  
+2          good            1         5     100   10    Warrior  
+3          veryVeryVeryBad 1         5     100   10    Ninja  
+
+-------------------------------------------
+Start of round 2:
+
+Start of good's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+good has 10 coins
+good has paid 10 coins for 1 force boost!
+Safe travels!
+Start of good's turn: 
+Player good has been defeated by a Dragon.
+Start of veryVeryVeryBad's turn: 
+Player veryVeryVeryBad has been defeated by a Witch.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          good            1         6     100   0     Ninja  
+2          veryVeryVeryBad 1         4     90    10    Ninja  
+3          good            1         5     0     10    Warrior  
+
+-------------------------------------------
+Start of round 3:
+
+Start of good's turn: 
+Player good has defeated Gremlin and rose 1 Level!
+Start of veryVeryVeryBad's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          good            2         6     100   4     Ninja  
+2          veryVeryVeryBad 1         4     90    10    Ninja  
+3          good            1         5     0     10    Warrior  
+
+-------------------------------------------
+Start of round 4:
+
+Start of good's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of veryVeryVeryBad's turn: 
+Player veryVeryVeryBad has been defeated by a Witch.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          good            2         6     100   24    Ninja  
+2          veryVeryVeryBad 1         3     80    10    Ninja  
+3          good            1         5     0     10    Warrior  
+
+-------------------------------------------
+Start of round 5:
+
+Start of good's turn: 
+Player good has defeated Gremlin and rose 1 Level!
+Start of veryVeryVeryBad's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          good            3         6     100   28    Ninja  
+2          veryVeryVeryBad 1         3     80    10    Ninja  
+3          good            1         5     0     10    Warrior  
+
+-------------------------------------------
+Start of round 6:
+
+Start of good's turn: 
+Player good has defeated Gremlin and rose 1 Level!
+Start of veryVeryVeryBad's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          good            4         6     100   32    Ninja  
+2          veryVeryVeryBad 1         3     80    30    Ninja  
+3          good            1         5     0     10    Warrior  
+
+-------------------------------------------
+Start of round 7:
+
+Start of good's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of veryVeryVeryBad's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+veryVeryVeryBad has 30 coins
+veryVeryVeryBad has paid 5 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          good            4         6     90    32    Ninja  
+2          veryVeryVeryBad 1         3     81    25    Ninja  
+3          good            1         5     0     10    Warrior  
+
+-------------------------------------------
+Start of round 8:
+
+Start of good's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+good has 32 coins
+good has paid 0 coins 
+Safe travels!
+Start of veryVeryVeryBad's turn: 
+Player veryVeryVeryBad has been defeated by a Witch.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          good            4         6     90    32    Ninja  
+2          veryVeryVeryBad 1         2     71    25    Ninja  
+3          good            1         5     0     10    Warrior  
+
+-------------------------------------------
+Start of round 9:
+
+Start of good's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of veryVeryVeryBad's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          good            4         6     90    52    Ninja  
+2          veryVeryVeryBad 1         2     71    45    Ninja  
+3          good            1         5     0     10    Warrior  
+
+-------------------------------------------
+Start of round 10:
+
+Start of good's turn: 
+Player good has defeated Gremlin and rose 1 Level!
+Start of veryVeryVeryBad's turn: 
+Player veryVeryVeryBad has been defeated by a Gremlin.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          good            5         6     90    56    Ninja  
+2          veryVeryVeryBad 1         2     61    45    Ninja  
+3          good            1         5     0     10    Warrior  
+
+-------------------------------------------
+Start of round 11:
+
+Start of good's turn: 
+Player good has defeated Witch and rose 1 Level!
+Start of veryVeryVeryBad's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+veryVeryVeryBad has 45 coins
+veryVeryVeryBad has paid 10 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          good            6         6     90    60    Ninja  
+2          veryVeryVeryBad 1         3     61    35    Ninja  
+3          good            1         5     0     10    Warrior  
+
+-------------------------------------------
+Start of round 12:
+
+Start of good's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of veryVeryVeryBad's turn: 
+Player veryVeryVeryBad has been defeated by a Gremlin.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          good            6         6     90    80    Ninja  
+2          veryVeryVeryBad 1         3     51    35    Ninja  
+3          good            1         5     0     10    Warrior  
+
+-------------------------------------------
+Start of round 13:
+
+Start of good's turn: 
+Player good has defeated Gremlin and rose 1 Level!
+Start of veryVeryVeryBad's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          good            7         6     90    84    Ninja  
+2          veryVeryVeryBad 1         3     51    55    Ninja  
+3          good            1         5     0     10    Warrior  
+
+-------------------------------------------
+Start of round 14:
+
+Start of good's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+good has 84 coins
+good has paid 5 coins for 1 health potion!
+Safe travels!
+Start of veryVeryVeryBad's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          good            7         6     91    79    Ninja  
+2          veryVeryVeryBad 1         3     51    75    Ninja  
+3          good            1         5     0     10    Warrior  
+
+-------------------------------------------
+Start of round 15:
+
+Start of good's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+good has 79 coins
+good has paid 0 coins 
+Safe travels!
+Start of veryVeryVeryBad's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+veryVeryVeryBad has 75 coins
+veryVeryVeryBad has paid 10 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          good            7         6     91    79    Ninja  
+2          veryVeryVeryBad 1         4     51    65    Ninja  
+3          good            1         5     0     10    Warrior  
+
+-------------------------------------------
+Start of round 16:
+
+Start of good's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+good has 79 coins
+good has paid 5 coins for 1 health potion!
+Safe travels!
+Start of veryVeryVeryBad's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          good            7         6     92    74    Ninja  
+2          veryVeryVeryBad 1         4     51    65    Ninja  
+3          good            1         5     0     10    Warrior  
+
+-------------------------------------------
+Start of round 17:
+
+Start of good's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+Start of veryVeryVeryBad's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+veryVeryVeryBad has 65 coins
+veryVeryVeryBad has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          good            7         6     92    74    Ninja  
+2          veryVeryVeryBad 1         4     51    65    Ninja  
+3          good            1         5     0     10    Warrior  
+
+-------------------------------------------
+Start of round 18:
+
+Start of good's turn: 
+Player good has been defeated by a Dragon.
+Start of veryVeryVeryBad's turn: 
+Player veryVeryVeryBad has been defeated by a Witch.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          veryVeryVeryBad 1         3     41    65    Ninja  
+2          good            7         6     0     74    Ninja  
+3          good            1         5     0     10    Warrior  
+
+-------------------------------------------
+Start of round 19:
+
+Start of veryVeryVeryBad's turn: 
+Player veryVeryVeryBad has been defeated by a Gremlin.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          veryVeryVeryBad 1         3     31    65    Ninja  
+2          good            7         6     0     74    Ninja  
+3          good            1         5     0     10    Warrior  
+
+-------------------------------------------
+Start of round 20:
+
+Start of veryVeryVeryBad's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          veryVeryVeryBad 1         3     31    65    Ninja  
+2          good            7         6     0     74    Ninja  
+3          good            1         5     0     10    Warrior  
+
+-------------------------------------------
+Start of round 21:
+
+Start of veryVeryVeryBad's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          veryVeryVeryBad 1         3     31    85    Ninja  
+2          good            7         6     0     74    Ninja  
+3          good            1         5     0     10    Warrior  
+
+-------------------------------------------
+Start of round 22:
+
+Start of veryVeryVeryBad's turn: 
+Player veryVeryVeryBad has been defeated by a Witch.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          veryVeryVeryBad 1         2     21    85    Ninja  
+2          good            7         6     0     74    Ninja  
+3          good            1         5     0     10    Warrior  
+
+-------------------------------------------
+Start of round 23:
+
+Start of veryVeryVeryBad's turn: 
+Player veryVeryVeryBad has been defeated by a Gremlin.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          veryVeryVeryBad 1         2     11    85    Ninja  
+2          good            7         6     0     74    Ninja  
+3          good            1         5     0     10    Warrior  
+
+-------------------------------------------
+Start of round 24:
+
+Start of veryVeryVeryBad's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          veryVeryVeryBad 1         2     11    85    Ninja  
+2          good            7         6     0     74    Ninja  
+3          good            1         5     0     10    Warrior  
+
+-------------------------------------------
+Start of round 25:
+
+Start of veryVeryVeryBad's turn: 
+Player veryVeryVeryBad has been defeated by a Gremlin.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          veryVeryVeryBad 1         2     1     85    Ninja  
+2          good            7         6     0     74    Ninja  
+3          good            1         5     0     10    Warrior  
+
+-------------------------------------------
+Start of round 26:
+
+Start of veryVeryVeryBad's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          veryVeryVeryBad 1         2     1     105   Ninja  
+2          good            7         6     0     74    Ninja  
+3          good            1         5     0     10    Warrior  
+
+-------------------------------------------
+Start of round 27:
+
+Start of veryVeryVeryBad's turn: 
+This is but a flesh wound. You've lost 10 health points
+The Game has ended!!!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          veryVeryVeryBad 1         2     0     105   Ninja  
+2          good            7         6     0     74    Ninja  
+3          good            1         5     0     10    Warrior  

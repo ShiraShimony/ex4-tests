@@ -1,0 +1,110 @@
+Welcome to the world of MtmChkin!!!
+Please enter team size: (2-6)
+Please insert the player name and class: 
+You have entered an invalid name. Please try again.
+Please insert the player name and class: 
+You have entered too many words. Please try again.
+Please insert the player name and class: 
+You have entered an invalid class. Please try again.
+Please insert the player name and class: 
+You have entered too many words. Please try again.
+Please insert the player name and class: 
+You have entered too many words. Please try again.
+Please insert the player name and class: 
+
+-------------------------------------------
+Start of round 1:
+
+Start of veryVeryVeryBad's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Good's turn: 
+Healers know how to use mana, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          veryVeryVeryBad 1         5     90    10    Ninja  
+2          Good            1         5     100   10    Healer  
+
+-------------------------------------------
+Start of round 2:
+
+Start of veryVeryVeryBad's turn: 
+Player veryVeryVeryBad has defeated Gremlin and rose 1 Level!
+Start of Good's turn: 
+Healers know how to use mana, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          veryVeryVeryBad 2         5     90    14    Ninja  
+2          Good            1         5     100   10    Healer  
+
+-------------------------------------------
+Start of round 3:
+
+Start of veryVeryVeryBad's turn: 
+Player veryVeryVeryBad has been defeated by a Witch.
+Start of Good's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          veryVeryVeryBad 2         4     80    14    Ninja  
+2          Good            1         5     100   20    Healer  
+
+-------------------------------------------
+Start of round 4:
+
+Start of veryVeryVeryBad's turn: 
+Player veryVeryVeryBad has been defeated by a Dragon.
+Start of Good's turn: 
+Player Good has defeated Gremlin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            2         5     100   22    Healer  
+2          veryVeryVeryBad 2         4     0     14    Ninja  
+
+-------------------------------------------
+Start of round 5:
+
+Start of Good's turn: 
+Healers know how to use mana, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            2         5     100   22    Healer  
+2          veryVeryVeryBad 2         4     0     14    Ninja  
+
+-------------------------------------------
+Start of round 6:
+
+Start of Good's turn: 
+Healers know how to use mana, you've gained 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            2         5     100   22    Healer  
+2          veryVeryVeryBad 2         4     0     14    Ninja  
+
+-------------------------------------------
+Start of round 7:
+
+Start of Good's turn: 
+Player Good has defeated Gremlin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            3         5     100   24    Healer  
+2          veryVeryVeryBad 2         4     0     14    Ninja  
+
+-------------------------------------------
+Start of round 8:
+
+Start of Good's turn: 
+Player Good has been defeated by a Dragon.
+The Game has ended!!!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            3         5     0     24    Healer  
+2          veryVeryVeryBad 2         4     0     14    Ninja  

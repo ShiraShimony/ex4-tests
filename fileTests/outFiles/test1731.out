@@ -1,0 +1,123 @@
+Welcome to the world of MtmChkin!!!
+Please enter team size: (2-6)
+Please insert the player name and class: 
+Please insert the player name and class: 
+
+-------------------------------------------
+Start of round 1:
+
+Start of Shira's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of Tiser's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Shira           1         5     100   30    Ninja  
+2          Tiser           1         5     100   20    Healer  
+
+-------------------------------------------
+Start of round 2:
+
+Start of Shira's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Shira has 30 coins
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+You have entered an invalid input. Please try again.
+Shira has paid 10 coins for 1 force boost!
+Safe travels!
+Start of Tiser's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Shira           1         6     100   20    Ninja  
+2          Tiser           1         5     100   30    Healer  
+
+-------------------------------------------
+Start of round 3:
+
+Start of Shira's turn: 
+Player Shira has been defeated by a Dragon.
+Start of Tiser's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Tiser has 30 coins
+Tiser has paid 5 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Tiser           1         5     100   25    Healer  
+2          Shira           1         6     0     20    Ninja  
+
+-------------------------------------------
+Start of round 4:
+
+Start of Tiser's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Tiser           1         5     100   35    Healer  
+2          Shira           1         6     0     20    Ninja  
+
+-------------------------------------------
+Start of round 5:
+
+Start of Tiser's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Tiser           1         5     100   45    Healer  
+2          Shira           1         6     0     20    Ninja  
+
+-------------------------------------------
+Start of round 6:
+
+Start of Tiser's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Tiser has 45 coins
+Tiser has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Tiser           1         5     100   45    Healer  
+2          Shira           1         6     0     20    Ninja  
+
+-------------------------------------------
+Start of round 7:
+
+Start of Tiser's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Tiser           1         5     100   55    Healer  
+2          Shira           1         6     0     20    Ninja  
+
+-------------------------------------------
+Start of round 8:
+
+Start of Tiser's turn: 
+Player Tiser has been defeated by a Dragon.
+The Game has ended!!!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Tiser           1         5     0     55    Healer  
+2          Shira           1         6     0     20    Ninja  

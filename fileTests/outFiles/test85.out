@@ -1,0 +1,673 @@
+Welcome to the world of MtmChkin!!!
+Please enter team size: (2-6)
+Please insert the player name and class: 
+Please insert the player name and class: 
+Please insert the player name and class: 
+
+-------------------------------------------
+Start of round 1:
+
+Start of Good's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Good has 10 coins
+Good has paid 5 coins for 1 health potion!
+Safe travels!
+Start of Good's turn: 
+You fell into the trap, lose 10 health points.
+Start of Good's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            1         5     100   5     Healer  
+2          Good            1         5     90    10    Healer  
+3          Good            1         5     90    10    Warrior  
+
+-------------------------------------------
+Start of round 2:
+
+Start of Good's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Good has 5 coins
+Good has paid 0 coins 
+Safe travels!
+Start of Good's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Good's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            1         5     100   5     Healer  
+2          Good            1         5     80    10    Healer  
+3          Good            1         5     90    10    Warrior  
+
+-------------------------------------------
+Start of round 3:
+
+Start of Good's turn: 
+Player Good has been defeated by a Witch.
+Start of Good's turn: 
+Player Good has been defeated by a Witch.
+Start of Good's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Good has 10 coins
+Good has paid 10 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            1         4     90    5     Healer  
+2          Good            1         4     70    10    Healer  
+3          Good            1         6     90    0     Warrior  
+
+-------------------------------------------
+Start of round 4:
+
+Start of Good's turn: 
+You fell into the trap, lose 10 health points.
+Start of Good's turn: 
+You fell into the trap, lose 10 health points.
+Start of Good's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Good has 0 coins
+You dont have enough coins for this purchase. Please try again.
+Good has paid 0 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            1         4     80    5     Healer  
+2          Good            1         4     60    10    Healer  
+3          Good            1         6     90    0     Warrior  
+
+-------------------------------------------
+Start of round 5:
+
+Start of Good's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Good's turn: 
+Healers know how to use mana, you've gained 10 health points.
+Start of Good's turn: 
+Player Good has defeated Witch and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            1         4     70    5     Healer  
+2          Good            1         4     80    10    Healer  
+3          Good            2         6     90    2     Warrior  
+
+-------------------------------------------
+Start of round 6:
+
+Start of Good's turn: 
+Player Good has been defeated by a Witch.
+Start of Good's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Good has 10 coins
+Good has paid 0 coins 
+Safe travels!
+Start of Good's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            1         3     60    5     Healer  
+2          Good            1         4     80    10    Healer  
+3          Good            2         6     80    2     Warrior  
+
+-------------------------------------------
+Start of round 7:
+
+Start of Good's turn: 
+You fell into the trap, lose 10 health points.
+Start of Good's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Good has 10 coins
+Good has paid 10 coins for 1 force boost!
+Safe travels!
+Start of Good's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            1         3     50    5     Healer  
+2          Good            1         5     80    0     Healer  
+3          Good            2         6     80    2     Warrior  
+
+-------------------------------------------
+Start of round 8:
+
+Start of Good's turn: 
+Healers know how to use mana, you've gained 10 health points.
+Start of Good's turn: 
+Player Good has been defeated by a Witch.
+Start of Good's turn: 
+Player Good has defeated Witch and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            1         3     70    5     Healer  
+2          Good            1         4     70    0     Healer  
+3          Good            3         6     80    4     Warrior  
+
+-------------------------------------------
+Start of round 9:
+
+Start of Good's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Good has 5 coins
+Good has paid 5 coins for 1 health potion!
+Safe travels!
+Start of Good's turn: 
+You fell into the trap, lose 10 health points.
+Start of Good's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            1         3     72    0     Healer  
+2          Good            1         4     60    0     Healer  
+3          Good            3         6     70    4     Warrior  
+
+-------------------------------------------
+Start of round 10:
+
+Start of Good's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Good has 0 coins
+Good has paid 0 coins 
+Safe travels!
+Start of Good's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Good's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            1         3     72    0     Healer  
+2          Good            1         4     50    0     Healer  
+3          Good            3         6     70    4     Warrior  
+
+-------------------------------------------
+Start of round 11:
+
+Start of Good's turn: 
+Player Good has been defeated by a Witch.
+Start of Good's turn: 
+Player Good has been defeated by a Witch.
+Start of Good's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Good has 4 coins
+You dont have enough coins for this purchase. Please try again.
+Good has paid 0 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            1         2     62    0     Healer  
+2          Good            1         3     40    0     Healer  
+3          Good            3         6     70    4     Warrior  
+
+-------------------------------------------
+Start of round 12:
+
+Start of Good's turn: 
+You fell into the trap, lose 10 health points.
+Start of Good's turn: 
+You fell into the trap, lose 10 health points.
+Start of Good's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Good has 4 coins
+You dont have enough coins for this purchase. Please try again.
+Good has paid 0 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            1         2     52    0     Healer  
+2          Good            1         3     30    0     Healer  
+3          Good            3         6     70    4     Warrior  
+
+-------------------------------------------
+Start of round 13:
+
+Start of Good's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Good's turn: 
+Healers know how to use mana, you've gained 10 health points.
+Start of Good's turn: 
+Player Good has defeated Witch and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            1         2     42    0     Healer  
+2          Good            1         3     50    0     Healer  
+3          Good            4         6     70    6     Warrior  
+
+-------------------------------------------
+Start of round 14:
+
+Start of Good's turn: 
+Player Good has been defeated by a Witch.
+Start of Good's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Good has 0 coins
+Good has paid 0 coins 
+Safe travels!
+Start of Good's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            1         1     32    0     Healer  
+2          Good            1         3     50    0     Healer  
+3          Good            4         6     60    6     Warrior  
+
+-------------------------------------------
+Start of round 15:
+
+Start of Good's turn: 
+You fell into the trap, lose 10 health points.
+Start of Good's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Good has 0 coins
+You dont have enough coins for this purchase. Please try again.
+Good has paid 0 coins for 1 force boost!
+Safe travels!
+Start of Good's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            1         1     22    0     Healer  
+2          Good            1         3     50    0     Healer  
+3          Good            4         6     60    6     Warrior  
+
+-------------------------------------------
+Start of round 16:
+
+Start of Good's turn: 
+Healers know how to use mana, you've gained 10 health points.
+Start of Good's turn: 
+Player Good has been defeated by a Witch.
+Start of Good's turn: 
+Player Good has defeated Witch and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            1         1     42    0     Healer  
+2          Good            1         2     40    0     Healer  
+3          Good            5         6     60    8     Warrior  
+
+-------------------------------------------
+Start of round 17:
+
+Start of Good's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Good has 0 coins
+You dont have enough coins for this purchase. Please try again.
+Good has paid 0 coins for 1 health potion!
+Safe travels!
+Start of Good's turn: 
+You fell into the trap, lose 10 health points.
+Start of Good's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            1         1     42    0     Healer  
+2          Good            1         2     30    0     Healer  
+3          Good            5         6     50    8     Warrior  
+
+-------------------------------------------
+Start of round 18:
+
+Start of Good's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Good has 0 coins
+Good has paid 0 coins 
+Safe travels!
+Start of Good's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Good's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            1         1     42    0     Healer  
+2          Good            1         2     20    0     Healer  
+3          Good            5         6     50    8     Warrior  
+
+-------------------------------------------
+Start of round 19:
+
+Start of Good's turn: 
+Player Good has been defeated by a Witch.
+Start of Good's turn: 
+Player Good has been defeated by a Witch.
+Start of Good's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Good has 8 coins
+You dont have enough coins for this purchase. Please try again.
+Good has paid 0 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            1         0     32    0     Healer  
+2          Good            1         1     10    0     Healer  
+3          Good            5         6     50    8     Warrior  
+
+-------------------------------------------
+Start of round 20:
+
+Start of Good's turn: 
+You fell into the trap, lose 10 health points.
+Start of Good's turn: 
+You fell into the trap, lose 10 health points.
+Start of Good's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Good has 8 coins
+Good has paid 5 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            1         0     22    0     Healer  
+2          Good            5         6     51    3     Warrior  
+3          Good            1         1     0     0     Healer  
+
+-------------------------------------------
+Start of round 21:
+
+Start of Good's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Good's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            1         0     12    0     Healer  
+2          Good            5         6     51    3     Warrior  
+3          Good            1         1     0     0     Healer  
+
+-------------------------------------------
+Start of round 22:
+
+Start of Good's turn: 
+Player Good has been defeated by a Witch.
+Start of Good's turn: 
+Player Good has defeated Witch and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            1         0     2     0     Healer  
+2          Good            6         6     51    5     Warrior  
+3          Good            1         1     0     0     Healer  
+
+-------------------------------------------
+Start of round 23:
+
+Start of Good's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Good has 0 coins
+Good has paid 0 coins 
+Safe travels!
+Start of Good's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            1         0     2     0     Healer  
+2          Good            6         6     41    5     Warrior  
+3          Good            1         1     0     0     Healer  
+
+-------------------------------------------
+Start of round 24:
+
+Start of Good's turn: 
+You fell into the trap, lose 10 health points.
+Start of Good's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Good has 5 coins
+You dont have enough coins for this purchase. Please try again.
+Good has paid 0 coins for 1 force boost!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            6         6     41    5     Warrior  
+2          Good            1         0     0     0     Healer  
+3          Good            1         1     0     0     Healer  
+
+-------------------------------------------
+Start of round 25:
+
+Start of Good's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            6         6     41    5     Warrior  
+2          Good            1         0     0     0     Healer  
+3          Good            1         1     0     0     Healer  
+
+-------------------------------------------
+Start of round 26:
+
+Start of Good's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            6         6     41    5     Warrior  
+2          Good            1         0     0     0     Healer  
+3          Good            1         1     0     0     Healer  
+
+-------------------------------------------
+Start of round 27:
+
+Start of Good's turn: 
+Player Good has defeated Witch and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            7         6     41    7     Warrior  
+2          Good            1         0     0     0     Healer  
+3          Good            1         1     0     0     Healer  
+
+-------------------------------------------
+Start of round 28:
+
+Start of Good's turn: 
+Player Good has defeated Witch and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            8         6     41    9     Warrior  
+2          Good            1         0     0     0     Healer  
+3          Good            1         1     0     0     Healer  
+
+-------------------------------------------
+Start of round 29:
+
+Start of Good's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Good has 9 coins
+Good has paid 5 coins for 1 health potion!
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            8         6     42    4     Warrior  
+2          Good            1         0     0     0     Healer  
+3          Good            1         1     0     0     Healer  
+
+-------------------------------------------
+Start of round 30:
+
+Start of Good's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            8         6     32    4     Warrior  
+2          Good            1         0     0     0     Healer  
+3          Good            1         1     0     0     Healer  
+
+-------------------------------------------
+Start of round 31:
+
+Start of Good's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            8         6     22    4     Warrior  
+2          Good            1         0     0     0     Healer  
+3          Good            1         1     0     0     Healer  
+
+-------------------------------------------
+Start of round 32:
+
+Start of Good's turn: 
+You've ran into a Merchant!
+Browse his wares:
+Health Potion (heals 1 health point) : 5 coins per potion.
+Force boost (adds 1 force): 10 coins per boost.
+Enter 1 for Health Potion, 2 for force boost or 0 to leave.
+Good has 4 coins
+Good has paid 0 coins 
+Safe travels!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            8         6     22    4     Warrior  
+2          Good            1         0     0     0     Healer  
+3          Good            1         1     0     0     Healer  
+
+-------------------------------------------
+Start of round 33:
+
+Start of Good's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            8         6     22    4     Warrior  
+2          Good            1         0     0     0     Healer  
+3          Good            1         1     0     0     Healer  
+
+-------------------------------------------
+Start of round 34:
+
+Start of Good's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            8         6     22    4     Warrior  
+2          Good            1         0     0     0     Healer  
+3          Good            1         1     0     0     Healer  
+
+-------------------------------------------
+Start of round 35:
+
+Start of Good's turn: 
+Player Good has defeated Witch and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            9         6     22    6     Warrior  
+2          Good            1         0     0     0     Healer  
+3          Good            1         1     0     0     Healer  
+
+-------------------------------------------
+Start of round 36:
+
+Start of Good's turn: 
+Player Good has defeated Witch and rose 1 Level!
+The Game has ended!!!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            10        6     22    8     Warrior  
+2          Good            1         0     0     0     Healer  
+3          Good            1         1     0     0     Healer  
