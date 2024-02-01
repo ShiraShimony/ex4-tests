@@ -7,72 +7,46 @@ Please insert the player name and class:
 -------------------------------------------
 Start of round 1:
 
+Start of good's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of good's turn: 
+You saw the trap coming from miles away, you dodged it gracefully.
 Start of Good's turn: 
-Player Good has defeated Gremlin and rose 1 Level!
-Start of Good's turn: 
-Player Good has defeated Witch and rose 1 Level!
-Start of Good's turn: 
-Player Good has defeated Gremlin and rose 1 Level!
+Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            2         5     100   12    Warrior  
-2          Good            2         5     100   12    Warrior  
-3          Good            2         5     100   14    Ninja  
+1          good            1         5     100   30    Ninja  
+2          good            1         5     100   10    Ninja  
+3          Good            1         5     100   10    Ninja  
 
 -------------------------------------------
 Start of round 2:
 
-Start of Good's turn: 
+Start of good's turn: 
+Player good has been defeated by a Dragon.
+Start of good's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Good's turn: 
-You've stumbled into a pile of coins! you've gained 10 gold.
-Start of Good's turn: 
-Player Good has been defeated by a Dragon.
+You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            2         5     100   22    Warrior  
-2          Good            2         5     100   22    Warrior  
-3          Good            2         5     0     14    Ninja  
+1          good            1         5     100   30    Ninja  
+2          Good            1         5     100   10    Ninja  
+3          good            1         5     0     30    Ninja  
 
 -------------------------------------------
 Start of round 3:
 
-Start of Good's turn: 
-Player Good has defeated Gremlin and rose 1 Level!
-Start of Good's turn: 
-You've won the scuffle without losing any health points.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            3         5     100   24    Warrior  
-2          Good            2         5     100   22    Warrior  
-3          Good            2         5     0     14    Ninja  
-
--------------------------------------------
-Start of round 4:
-
-Start of Good's turn: 
-You fell into the trap, lose 10 health points.
-Start of Good's turn: 
-Player Good has been defeated by a Dragon.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            3         5     90    24    Warrior  
-2          Good            2         5     0     22    Warrior  
-3          Good            2         5     0     14    Ninja  
-
--------------------------------------------
-Start of round 5:
-
+Start of good's turn: 
+Player good has been defeated by a Dragon.
 Start of Good's turn: 
 Player Good has been defeated by a Dragon.
 The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            3         5     0     24    Warrior  
-2          Good            2         5     0     22    Warrior  
-3          Good            2         5     0     14    Ninja  
+1          Good            1         5     0     10    Ninja  
+2          good            1         5     0     30    Ninja  
+3          good            1         5     0     30    Ninja  

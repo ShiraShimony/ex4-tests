@@ -1,14 +1,93 @@
 Welcome to the world of MtmChkin!!!
 Please enter team size: (2-6)
 Please insert the player name and class: 
-You have entered too many words. Please try again.
 Please insert the player name and class: 
-You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
 
 -------------------------------------------
 Start of round 1:
 
+Start of Good's turn: 
+Player Good has defeated Gremlin and rose 1 Level!
+Start of Good's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            2         5     100   14    Ninja  
+2          Good            1         5     100   20    Warrior  
+
+-------------------------------------------
+Start of round 2:
+
+Start of Good's turn: 
+Nothing happened.
+Start of Good's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            2         5     100   14    Ninja  
+2          Good            1         5     100   20    Warrior  
+
+-------------------------------------------
+Start of round 3:
+
+Start of Good's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Good's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            2         5     90    14    Ninja  
+2          Good            1         5     90    20    Warrior  
+
+-------------------------------------------
+Start of round 4:
+
+Start of Good's turn: 
+Nothing happened.
+Start of Good's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            2         5     90    14    Ninja  
+2          Good            1         5     90    20    Warrior  
+
+-------------------------------------------
+Start of round 5:
+
+Start of Good's turn: 
+Player Good has defeated Gremlin and rose 1 Level!
+Start of Good's turn: 
+Player Good has been defeated by a Dragon.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            3         5     90    18    Ninja  
+2          Good            1         5     0     20    Warrior  
+
+-------------------------------------------
+Start of round 6:
+
+Start of Good's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            3         5     90    38    Ninja  
+2          Good            1         5     0     20    Warrior  
+
+-------------------------------------------
+Start of round 7:
+
+Start of Good's turn: 
+Player Good has been defeated by a Dragon.
 The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            3         5     0     38    Ninja  
+2          Good            1         5     0     20    Warrior  

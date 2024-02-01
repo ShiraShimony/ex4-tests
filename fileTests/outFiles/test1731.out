@@ -29,14 +29,14 @@ Shira has 30 coins
 You have entered an invalid input. Please try again.
 You have entered an invalid input. Please try again.
 You have entered an invalid input. Please try again.
-Shira has paid 10 coins for 1 force boost!
+Shira has paid 5 coins for 1 health potion!
 Safe travels!
 Start of Tiser's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Shira           1         6     100   20    Ninja  
+1          Shira           1         5     100   25    Ninja  
 2          Tiser           1         5     100   30    Healer  
 
 -------------------------------------------
@@ -51,13 +51,13 @@ Health Potion (heals 1 health point) : 5 coins per potion.
 Force boost (adds 1 force): 10 coins per boost.
 Enter 1 for Health Potion, 2 for force boost or 0 to leave.
 Tiser has 30 coins
-Tiser has paid 5 coins for 1 health potion!
+Tiser has paid 0 coins 
 Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Tiser           1         5     100   25    Healer  
-2          Shira           1         6     0     20    Ninja  
+1          Tiser           1         5     100   30    Healer  
+2          Shira           1         5     0     25    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -67,8 +67,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Tiser           1         5     100   35    Healer  
-2          Shira           1         6     0     20    Ninja  
+1          Tiser           1         5     100   40    Healer  
+2          Shira           1         5     0     25    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -78,8 +78,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Tiser           1         5     100   45    Healer  
-2          Shira           1         6     0     20    Ninja  
+1          Tiser           1         5     100   50    Healer  
+2          Shira           1         5     0     25    Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -90,14 +90,14 @@ Browse his wares:
 Health Potion (heals 1 health point) : 5 coins per potion.
 Force boost (adds 1 force): 10 coins per boost.
 Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-Tiser has 45 coins
-Tiser has paid 0 coins 
+Tiser has 50 coins
+Tiser has paid 10 coins for 1 force boost!
 Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Tiser           1         5     100   45    Healer  
-2          Shira           1         6     0     20    Ninja  
+1          Tiser           1         6     100   40    Healer  
+2          Shira           1         5     0     25    Ninja  
 
 -------------------------------------------
 Start of round 7:
@@ -107,8 +107,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Tiser           1         5     100   55    Healer  
-2          Shira           1         6     0     20    Ninja  
+1          Tiser           1         6     100   50    Healer  
+2          Shira           1         5     0     25    Ninja  
 
 -------------------------------------------
 Start of round 8:
@@ -119,5 +119,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Tiser           1         5     0     55    Healer  
-2          Shira           1         6     0     20    Ninja  
+1          Tiser           1         6     0     50    Healer  
+2          Shira           1         5     0     25    Ninja  

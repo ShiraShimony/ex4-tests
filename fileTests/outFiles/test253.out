@@ -2,40 +2,32 @@ Welcome to the world of MtmChkin!!!
 Please enter team size: (2-6)
 Please insert the player name and class: 
 Please insert the player name and class: 
-You have entered an invalid class. Please try again.
 
 -------------------------------------------
 Start of round 1:
 
 Start of good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-good has 10 coins
-good has paid 5 coins for 1 health potion!
-Safe travels!
+This is but a flesh wound. You've lost 10 health points
 Start of Good's turn: 
-You've stumbled into a pile of coins! you've gained 10 gold.
+This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         5     100   5     Warrior  
-2          Good            1         5     100   20    Healer  
+1          good            1         5     90    10    Ninja  
+2          Good            1         5     90    10    Healer  
 
 -------------------------------------------
 Start of round 2:
 
 Start of good's turn: 
-You've stumbled into a pile of coins! you've gained 10 gold.
+This is but a flesh wound. You've lost 10 health points
 Start of Good's turn: 
-Player Good has defeated Gremlin and rose 1 Level!
+You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         5     100   15    Warrior  
-2          Good            2         5     100   22    Healer  
+1          good            1         5     80    10    Ninja  
+2          Good            1         5     80    10    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -43,105 +35,77 @@ Start of round 3:
 Start of good's turn: 
 Nothing happened.
 Start of Good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-Good has 22 coins
-Good has paid 0 coins 
-Safe travels!
+This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         5     100   15    Warrior  
-2          Good            2         5     100   22    Healer  
+1          good            1         5     80    10    Ninja  
+2          Good            1         5     70    10    Healer  
 
 -------------------------------------------
 Start of round 4:
 
 Start of good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-good has 15 coins
-good has paid 10 coins for 1 force boost!
-Safe travels!
+You saw the trap coming from miles away, you dodged it gracefully.
 Start of Good's turn: 
-You've stumbled into a pile of coins! you've gained 10 gold.
+Player Good has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         6     100   5     Warrior  
-2          Good            2         5     100   32    Healer  
+1          good            1         5     80    10    Ninja  
+2          Good            1         4     60    10    Healer  
 
 -------------------------------------------
 Start of round 5:
 
 Start of good's turn: 
-Nothing happened.
+Player good has defeated Gremlin and rose 1 Level!
 Start of Good's turn: 
 Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         6     100   5     Warrior  
-2          Good            2         5     100   32    Healer  
+1          good            2         5     80    14    Ninja  
+2          Good            1         4     80    10    Healer  
 
 -------------------------------------------
 Start of round 6:
 
 Start of good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-good has 5 coins
-good has paid 5 coins for 1 health potion!
-Safe travels!
-Start of Good's turn: 
-Healers know how to use mana, you've gained 10 health points.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         6     100   0     Warrior  
-2          Good            2         5     100   32    Healer  
-
--------------------------------------------
-Start of round 7:
-
-Start of good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-good has 0 coins
-good has paid 0 coins 
-Safe travels!
-Start of Good's turn: 
-You've stumbled into a pile of coins! you've gained 10 gold.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         6     100   0     Warrior  
-2          Good            2         5     100   42    Healer  
-
--------------------------------------------
-Start of round 8:
-
-Start of good's turn: 
-You've stumbled into a pile of coins! you've gained 10 gold.
+This is but a flesh wound. You've lost 10 health points
 Start of Good's turn: 
 Player Good has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         6     100   10    Warrior  
-2          Good            3         5     100   44    Healer  
+1          good            2         5     70    14    Ninja  
+2          Good            2         4     80    12    Healer  
+
+-------------------------------------------
+Start of round 7:
+
+Start of good's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Good's turn: 
+This is but a flesh wound. You've lost 10 health points
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          good            2         5     60    14    Ninja  
+2          Good            2         4     70    12    Healer  
+
+-------------------------------------------
+Start of round 8:
+
+Start of good's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Good's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          good            2         5     50    14    Ninja  
+2          Good            2         4     60    12    Healer  
 
 -------------------------------------------
 Start of round 9:
@@ -149,106 +113,77 @@ Start of round 9:
 Start of good's turn: 
 Nothing happened.
 Start of Good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-Good has 44 coins
-Good has paid 10 coins for 1 force boost!
-Safe travels!
+This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         6     100   10    Warrior  
-2          Good            3         6     100   34    Healer  
+1          good            2         5     50    14    Ninja  
+2          Good            2         4     50    12    Healer  
 
 -------------------------------------------
 Start of round 10:
 
 Start of good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-good has 10 coins
-good has paid 5 coins for 1 health potion!
-Safe travels!
+You saw the trap coming from miles away, you dodged it gracefully.
 Start of Good's turn: 
-You've stumbled into a pile of coins! you've gained 10 gold.
+Player Good has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         6     100   5     Warrior  
-2          Good            3         6     100   44    Healer  
+1          good            2         5     50    14    Ninja  
+2          Good            2         3     40    12    Healer  
 
 -------------------------------------------
 Start of round 11:
 
 Start of good's turn: 
-Nothing happened.
+Player good has defeated Gremlin and rose 1 Level!
 Start of Good's turn: 
 Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         6     100   5     Warrior  
-2          Good            3         6     100   44    Healer  
+1          good            3         5     50    18    Ninja  
+2          Good            2         3     60    12    Healer  
 
 -------------------------------------------
 Start of round 12:
 
 Start of good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-good has 5 coins
-good has paid 0 coins 
-Safe travels!
-Start of Good's turn: 
-Healers know how to use mana, you've gained 10 health points.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         6     100   5     Warrior  
-2          Good            3         6     100   44    Healer  
-
--------------------------------------------
-Start of round 13:
-
-Start of good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-good has 5 coins
-You dont have enough coins for this purchase. Please try again.
-good has paid 0 coins for 1 force boost!
-Safe travels!
-Start of Good's turn: 
-You've stumbled into a pile of coins! you've gained 10 gold.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         6     100   5     Warrior  
-2          Good            3         6     100   54    Healer  
-
--------------------------------------------
-Start of round 14:
-
-Start of good's turn: 
-You've stumbled into a pile of coins! you've gained 10 gold.
+This is but a flesh wound. You've lost 10 health points
 Start of Good's turn: 
 Player Good has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         6     100   15    Warrior  
-2          Good            4         6     100   56    Healer  
+1          good            3         5     40    18    Ninja  
+2          Good            3         3     60    14    Healer  
+
+-------------------------------------------
+Start of round 13:
+
+Start of good's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Good's turn: 
+This is but a flesh wound. You've lost 10 health points
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          good            3         5     30    18    Ninja  
+2          Good            3         3     50    14    Healer  
+
+-------------------------------------------
+Start of round 14:
+
+Start of good's turn: 
+This is but a flesh wound. You've lost 10 health points
+Start of Good's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          good            3         5     20    18    Ninja  
+2          Good            3         3     40    14    Healer  
 
 -------------------------------------------
 Start of round 15:
@@ -256,1305 +191,128 @@ Start of round 15:
 Start of good's turn: 
 Nothing happened.
 Start of Good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-Good has 56 coins
-Good has paid 5 coins for 1 health potion!
-Safe travels!
+This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         6     100   15    Warrior  
-2          Good            4         6     100   51    Healer  
+1          good            3         5     20    18    Ninja  
+2          Good            3         3     30    14    Healer  
 
 -------------------------------------------
 Start of round 16:
 
 Start of good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-good has 15 coins
-good has paid 0 coins 
-Safe travels!
+You saw the trap coming from miles away, you dodged it gracefully.
 Start of Good's turn: 
-You've stumbled into a pile of coins! you've gained 10 gold.
+Player Good has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         6     100   15    Warrior  
-2          Good            4         6     100   61    Healer  
+1          good            3         5     20    18    Ninja  
+2          Good            3         2     20    14    Healer  
 
 -------------------------------------------
 Start of round 17:
 
 Start of good's turn: 
-Nothing happened.
+Player good has defeated Gremlin and rose 1 Level!
 Start of Good's turn: 
 Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         6     100   15    Warrior  
-2          Good            4         6     100   61    Healer  
+1          good            4         5     20    22    Ninja  
+2          Good            3         2     40    14    Healer  
 
 -------------------------------------------
 Start of round 18:
 
 Start of good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-good has 15 coins
-good has paid 10 coins for 1 force boost!
-Safe travels!
+This is but a flesh wound. You've lost 10 health points
 Start of Good's turn: 
-Healers know how to use mana, you've gained 10 health points.
+Player Good has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         7     100   5     Warrior  
-2          Good            4         6     100   61    Healer  
+1          good            4         5     10    22    Ninja  
+2          Good            4         2     40    16    Healer  
 
 -------------------------------------------
 Start of round 19:
 
 Start of good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-good has 5 coins
-good has paid 5 coins for 1 health potion!
-Safe travels!
+This is but a flesh wound. You've lost 10 health points
 Start of Good's turn: 
-You've stumbled into a pile of coins! you've gained 10 gold.
+This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         7     100   0     Warrior  
-2          Good            4         6     100   71    Healer  
+1          Good            4         2     30    16    Healer  
+2          good            4         5     0     22    Ninja  
 
 -------------------------------------------
 Start of round 20:
 
-Start of good's turn: 
-You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Good's turn: 
-Player Good has defeated Gremlin and rose 1 Level!
+This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         7     100   10    Warrior  
-2          Good            5         6     100   73    Healer  
+1          Good            4         2     20    16    Healer  
+2          good            4         5     0     22    Ninja  
 
 -------------------------------------------
 Start of round 21:
 
-Start of good's turn: 
-Nothing happened.
 Start of Good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-Good has 73 coins
-Good has paid 0 coins 
-Safe travels!
+You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         7     100   10    Warrior  
-2          Good            5         6     100   73    Healer  
+1          Good            4         2     10    16    Healer  
+2          good            4         5     0     22    Ninja  
 
 -------------------------------------------
 Start of round 22:
 
-Start of good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-good has 10 coins
-good has paid 10 coins for 1 force boost!
-Safe travels!
 Start of Good's turn: 
-You've stumbled into a pile of coins! you've gained 10 gold.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         8     100   0     Warrior  
-2          Good            5         6     100   83    Healer  
+1          Good            4         2     30    16    Healer  
+2          good            4         5     0     22    Ninja  
 
 -------------------------------------------
 Start of round 23:
 
-Start of good's turn: 
-Nothing happened.
 Start of Good's turn: 
-Healers know how to use mana, you've gained 10 health points.
+This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         8     100   0     Warrior  
-2          Good            5         6     100   83    Healer  
+1          Good            4         2     20    16    Healer  
+2          good            4         5     0     22    Ninja  
 
 -------------------------------------------
 Start of round 24:
 
-Start of good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-good has 0 coins
-You dont have enough coins for this purchase. Please try again.
-good has paid 0 coins for 1 health potion!
-Safe travels!
 Start of Good's turn: 
-Healers know how to use mana, you've gained 10 health points.
+You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         8     100   0     Warrior  
-2          Good            5         6     100   83    Healer  
+1          Good            4         2     10    16    Healer  
+2          good            4         5     0     22    Ninja  
 
 -------------------------------------------
 Start of round 25:
 
-Start of good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-good has 0 coins
-good has paid 0 coins 
-Safe travels!
 Start of Good's turn: 
-You've stumbled into a pile of coins! you've gained 10 gold.
+Player Good has been defeated by a Witch.
+The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         8     100   0     Warrior  
-2          Good            5         6     100   93    Healer  
-
--------------------------------------------
-Start of round 26:
-
-Start of good's turn: 
-You've stumbled into a pile of coins! you've gained 10 gold.
-Start of Good's turn: 
-Player Good has defeated Gremlin and rose 1 Level!
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         8     100   10    Warrior  
-2          Good            6         6     100   95    Healer  
-
--------------------------------------------
-Start of round 27:
-
-Start of good's turn: 
-Nothing happened.
-Start of Good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-Good has 95 coins
-Good has paid 10 coins for 1 force boost!
-Safe travels!
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         8     100   10    Warrior  
-2          Good            6         7     100   85    Healer  
-
--------------------------------------------
-Start of round 28:
-
-Start of good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-good has 10 coins
-good has paid 5 coins for 1 health potion!
-Safe travels!
-Start of Good's turn: 
-You've stumbled into a pile of coins! you've gained 10 gold.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         8     100   5     Warrior  
-2          Good            6         7     100   95    Healer  
-
--------------------------------------------
-Start of round 29:
-
-Start of good's turn: 
-Nothing happened.
-Start of Good's turn: 
-Healers know how to use mana, you've gained 10 health points.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         8     100   5     Warrior  
-2          Good            6         7     100   95    Healer  
-
--------------------------------------------
-Start of round 30:
-
-Start of good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-good has 5 coins
-good has paid 0 coins 
-Safe travels!
-Start of Good's turn: 
-Healers know how to use mana, you've gained 10 health points.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         8     100   5     Warrior  
-2          Good            6         7     100   95    Healer  
-
--------------------------------------------
-Start of round 31:
-
-Start of good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-good has 5 coins
-You dont have enough coins for this purchase. Please try again.
-good has paid 0 coins for 1 force boost!
-Safe travels!
-Start of Good's turn: 
-You've stumbled into a pile of coins! you've gained 10 gold.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         8     100   5     Warrior  
-2          Good            6         7     100   105   Healer  
-
--------------------------------------------
-Start of round 32:
-
-Start of good's turn: 
-You've stumbled into a pile of coins! you've gained 10 gold.
-Start of Good's turn: 
-Player Good has defeated Gremlin and rose 1 Level!
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         8     100   15    Warrior  
-2          Good            7         7     100   107   Healer  
-
--------------------------------------------
-Start of round 33:
-
-Start of good's turn: 
-Nothing happened.
-Start of Good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-Good has 107 coins
-Good has paid 5 coins for 1 health potion!
-Safe travels!
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         8     100   15    Warrior  
-2          Good            7         7     100   102   Healer  
-
--------------------------------------------
-Start of round 34:
-
-Start of good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-good has 15 coins
-good has paid 0 coins 
-Safe travels!
-Start of Good's turn: 
-You've stumbled into a pile of coins! you've gained 10 gold.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         8     100   15    Warrior  
-2          Good            7         7     100   112   Healer  
-
--------------------------------------------
-Start of round 35:
-
-Start of good's turn: 
-Nothing happened.
-Start of Good's turn: 
-Healers know how to use mana, you've gained 10 health points.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         8     100   15    Warrior  
-2          Good            7         7     100   112   Healer  
-
--------------------------------------------
-Start of round 36:
-
-Start of good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-good has 15 coins
-good has paid 10 coins for 1 force boost!
-Safe travels!
-Start of Good's turn: 
-Healers know how to use mana, you've gained 10 health points.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         9     100   5     Warrior  
-2          Good            7         7     100   112   Healer  
-
--------------------------------------------
-Start of round 37:
-
-Start of good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-good has 5 coins
-good has paid 5 coins for 1 health potion!
-Safe travels!
-Start of Good's turn: 
-You've stumbled into a pile of coins! you've gained 10 gold.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         9     100   0     Warrior  
-2          Good            7         7     100   122   Healer  
-
--------------------------------------------
-Start of round 38:
-
-Start of good's turn: 
-You've stumbled into a pile of coins! you've gained 10 gold.
-Start of Good's turn: 
-Player Good has defeated Gremlin and rose 1 Level!
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         9     100   10    Warrior  
-2          Good            8         7     100   124   Healer  
-
--------------------------------------------
-Start of round 39:
-
-Start of good's turn: 
-Nothing happened.
-Start of Good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-Good has 124 coins
-Good has paid 0 coins 
-Safe travels!
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         9     100   10    Warrior  
-2          Good            8         7     100   124   Healer  
-
--------------------------------------------
-Start of round 40:
-
-Start of good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-good has 10 coins
-good has paid 10 coins for 1 force boost!
-Safe travels!
-Start of Good's turn: 
-You've stumbled into a pile of coins! you've gained 10 gold.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         10    100   0     Warrior  
-2          Good            8         7     100   134   Healer  
-
--------------------------------------------
-Start of round 41:
-
-Start of good's turn: 
-Nothing happened.
-Start of Good's turn: 
-Healers know how to use mana, you've gained 10 health points.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         10    100   0     Warrior  
-2          Good            8         7     100   134   Healer  
-
--------------------------------------------
-Start of round 42:
-
-Start of good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-good has 0 coins
-You dont have enough coins for this purchase. Please try again.
-good has paid 0 coins for 1 health potion!
-Safe travels!
-Start of Good's turn: 
-Healers know how to use mana, you've gained 10 health points.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         10    100   0     Warrior  
-2          Good            8         7     100   134   Healer  
-
--------------------------------------------
-Start of round 43:
-
-Start of good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-good has 0 coins
-good has paid 0 coins 
-Safe travels!
-Start of Good's turn: 
-You've stumbled into a pile of coins! you've gained 10 gold.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         10    100   0     Warrior  
-2          Good            8         7     100   144   Healer  
-
--------------------------------------------
-Start of round 44:
-
-Start of good's turn: 
-You've stumbled into a pile of coins! you've gained 10 gold.
-Start of Good's turn: 
-Player Good has defeated Gremlin and rose 1 Level!
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         10    100   10    Warrior  
-2          Good            9         7     100   146   Healer  
-
--------------------------------------------
-Start of round 45:
-
-Start of good's turn: 
-Nothing happened.
-Start of Good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-Good has 146 coins
-Good has paid 10 coins for 1 force boost!
-Safe travels!
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         10    100   10    Warrior  
-2          Good            9         8     100   136   Healer  
-
--------------------------------------------
-Start of round 46:
-
-Start of good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-good has 10 coins
-good has paid 5 coins for 1 health potion!
-Safe travels!
-Start of Good's turn: 
-You've stumbled into a pile of coins! you've gained 10 gold.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         10    100   5     Warrior  
-2          Good            9         8     100   146   Healer  
-
--------------------------------------------
-Start of round 47:
-
-Start of good's turn: 
-Nothing happened.
-Start of Good's turn: 
-Healers know how to use mana, you've gained 10 health points.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         10    100   5     Warrior  
-2          Good            9         8     100   146   Healer  
-
--------------------------------------------
-Start of round 48:
-
-Start of good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-good has 5 coins
-good has paid 0 coins 
-Safe travels!
-Start of Good's turn: 
-Healers know how to use mana, you've gained 10 health points.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         10    100   5     Warrior  
-2          Good            9         8     100   146   Healer  
-
--------------------------------------------
-Start of round 49:
-
-Start of good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-good has 5 coins
-You dont have enough coins for this purchase. Please try again.
-good has paid 0 coins for 1 force boost!
-Safe travels!
-Start of Good's turn: 
-You've stumbled into a pile of coins! you've gained 10 gold.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          good            1         10    100   5     Warrior  
-2          Good            9         8     100   156   Healer  
-
--------------------------------------------
-Start of round 50:
-
-Start of good's turn: 
-You've stumbled into a pile of coins! you've gained 10 gold.
-Start of Good's turn: 
-Player Good has defeated Gremlin and rose 1 Level!
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            1         10    100   15    Warrior  
-
--------------------------------------------
-Start of round 51:
-
-Start of good's turn: 
-Nothing happened.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            1         10    100   15    Warrior  
-
--------------------------------------------
-Start of round 52:
-
-Start of good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-good has 15 coins
-good has paid 5 coins for 1 health potion!
-Safe travels!
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            1         10    100   10    Warrior  
-
--------------------------------------------
-Start of round 53:
-
-Start of good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-good has 10 coins
-good has paid 0 coins 
-Safe travels!
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            1         10    100   10    Warrior  
-
--------------------------------------------
-Start of round 54:
-
-Start of good's turn: 
-You've stumbled into a pile of coins! you've gained 10 gold.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            1         10    100   20    Warrior  
-
--------------------------------------------
-Start of round 55:
-
-Start of good's turn: 
-Nothing happened.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            1         10    100   20    Warrior  
-
--------------------------------------------
-Start of round 56:
-
-Start of good's turn: 
-Nothing happened.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            1         10    100   20    Warrior  
-
--------------------------------------------
-Start of round 57:
-
-Start of good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-good has 20 coins
-good has paid 10 coins for 1 force boost!
-Safe travels!
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            1         11    100   10    Warrior  
-
--------------------------------------------
-Start of round 58:
-
-Start of good's turn: 
-Nothing happened.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            1         11    100   10    Warrior  
-
--------------------------------------------
-Start of round 59:
-
-Start of good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-good has 10 coins
-good has paid 5 coins for 1 health potion!
-Safe travels!
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            1         11    100   5     Warrior  
-
--------------------------------------------
-Start of round 60:
-
-Start of good's turn: 
-You've stumbled into a pile of coins! you've gained 10 gold.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            1         11    100   15    Warrior  
-
--------------------------------------------
-Start of round 61:
-
-Start of good's turn: 
-You've stumbled into a pile of coins! you've gained 10 gold.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            1         11    100   25    Warrior  
-
--------------------------------------------
-Start of round 62:
-
-Start of good's turn: 
-Player good has defeated Gremlin and rose 1 Level!
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            2         11    100   27    Warrior  
-
--------------------------------------------
-Start of round 63:
-
-Start of good's turn: 
-Nothing happened.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            2         11    100   27    Warrior  
-
--------------------------------------------
-Start of round 64:
-
-Start of good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-good has 27 coins
-good has paid 0 coins 
-Safe travels!
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            2         11    100   27    Warrior  
-
--------------------------------------------
-Start of round 65:
-
-Start of good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-good has 27 coins
-good has paid 10 coins for 1 force boost!
-Safe travels!
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            2         12    100   17    Warrior  
-
--------------------------------------------
-Start of round 66:
-
-Start of good's turn: 
-You've stumbled into a pile of coins! you've gained 10 gold.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            2         12    100   27    Warrior  
-
--------------------------------------------
-Start of round 67:
-
-Start of good's turn: 
-Nothing happened.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            2         12    100   27    Warrior  
-
--------------------------------------------
-Start of round 68:
-
-Start of good's turn: 
-Nothing happened.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            2         12    100   27    Warrior  
-
--------------------------------------------
-Start of round 69:
-
-Start of good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-good has 27 coins
-good has paid 5 coins for 1 health potion!
-Safe travels!
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            2         12    100   22    Warrior  
-
--------------------------------------------
-Start of round 70:
-
-Start of good's turn: 
-Nothing happened.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            2         12    100   22    Warrior  
-
--------------------------------------------
-Start of round 71:
-
-Start of good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-good has 22 coins
-good has paid 0 coins 
-Safe travels!
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            2         12    100   22    Warrior  
-
--------------------------------------------
-Start of round 72:
-
-Start of good's turn: 
-You've stumbled into a pile of coins! you've gained 10 gold.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            2         12    100   32    Warrior  
-
--------------------------------------------
-Start of round 73:
-
-Start of good's turn: 
-You've stumbled into a pile of coins! you've gained 10 gold.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            2         12    100   42    Warrior  
-
--------------------------------------------
-Start of round 74:
-
-Start of good's turn: 
-Player good has defeated Gremlin and rose 1 Level!
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            3         12    100   44    Warrior  
-
--------------------------------------------
-Start of round 75:
-
-Start of good's turn: 
-Nothing happened.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            3         12    100   44    Warrior  
-
--------------------------------------------
-Start of round 76:
-
-Start of good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-good has 44 coins
-good has paid 10 coins for 1 force boost!
-Safe travels!
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            3         13    100   34    Warrior  
-
--------------------------------------------
-Start of round 77:
-
-Start of good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-good has 34 coins
-good has paid 5 coins for 1 health potion!
-Safe travels!
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            3         13    100   29    Warrior  
-
--------------------------------------------
-Start of round 78:
-
-Start of good's turn: 
-You've stumbled into a pile of coins! you've gained 10 gold.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            3         13    100   39    Warrior  
-
--------------------------------------------
-Start of round 79:
-
-Start of good's turn: 
-Nothing happened.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            3         13    100   39    Warrior  
-
--------------------------------------------
-Start of round 80:
-
-Start of good's turn: 
-Nothing happened.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            3         13    100   39    Warrior  
-
--------------------------------------------
-Start of round 81:
-
-Start of good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-good has 39 coins
-good has paid 0 coins 
-Safe travels!
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            3         13    100   39    Warrior  
-
--------------------------------------------
-Start of round 82:
-
-Start of good's turn: 
-Nothing happened.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            3         13    100   39    Warrior  
-
--------------------------------------------
-Start of round 83:
-
-Start of good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-good has 39 coins
-good has paid 10 coins for 1 force boost!
-Safe travels!
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            3         14    100   29    Warrior  
-
--------------------------------------------
-Start of round 84:
-
-Start of good's turn: 
-You've stumbled into a pile of coins! you've gained 10 gold.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            3         14    100   39    Warrior  
-
--------------------------------------------
-Start of round 85:
-
-Start of good's turn: 
-You've stumbled into a pile of coins! you've gained 10 gold.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            3         14    100   49    Warrior  
-
--------------------------------------------
-Start of round 86:
-
-Start of good's turn: 
-Player good has defeated Gremlin and rose 1 Level!
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            4         14    100   51    Warrior  
-
--------------------------------------------
-Start of round 87:
-
-Start of good's turn: 
-Nothing happened.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            4         14    100   51    Warrior  
-
--------------------------------------------
-Start of round 88:
-
-Start of good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-good has 51 coins
-good has paid 5 coins for 1 health potion!
-Safe travels!
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            4         14    100   46    Warrior  
-
--------------------------------------------
-Start of round 89:
-
-Start of good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-good has 46 coins
-good has paid 0 coins 
-Safe travels!
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            4         14    100   46    Warrior  
-
--------------------------------------------
-Start of round 90:
-
-Start of good's turn: 
-You've stumbled into a pile of coins! you've gained 10 gold.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            4         14    100   56    Warrior  
-
--------------------------------------------
-Start of round 91:
-
-Start of good's turn: 
-Nothing happened.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            4         14    100   56    Warrior  
-
--------------------------------------------
-Start of round 92:
-
-Start of good's turn: 
-Nothing happened.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            4         14    100   56    Warrior  
-
--------------------------------------------
-Start of round 93:
-
-Start of good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-good has 56 coins
-good has paid 10 coins for 1 force boost!
-Safe travels!
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            4         15    100   46    Warrior  
-
--------------------------------------------
-Start of round 94:
-
-Start of good's turn: 
-Nothing happened.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            4         15    100   46    Warrior  
-
--------------------------------------------
-Start of round 95:
-
-Start of good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-good has 46 coins
-good has paid 5 coins for 1 health potion!
-Safe travels!
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            4         15    100   41    Warrior  
-
--------------------------------------------
-Start of round 96:
-
-Start of good's turn: 
-You've stumbled into a pile of coins! you've gained 10 gold.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            4         15    100   51    Warrior  
-
--------------------------------------------
-Start of round 97:
-
-Start of good's turn: 
-You've stumbled into a pile of coins! you've gained 10 gold.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            4         15    100   61    Warrior  
-
--------------------------------------------
-Start of round 98:
-
-Start of good's turn: 
-Player good has defeated Gremlin and rose 1 Level!
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            5         15    100   63    Warrior  
-
--------------------------------------------
-Start of round 99:
-
-Start of good's turn: 
-Nothing happened.
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            5         15    100   63    Warrior  
-
--------------------------------------------
-Start of round 100:
-
-Start of good's turn: 
-You've ran into a Merchant!
-Browse his wares:
-Health Potion (heals 1 health point) : 5 coins per potion.
-Force boost (adds 1 force): 10 coins per boost.
-Enter 1 for Health Potion, 2 for force boost or 0 to leave.
-good has 63 coins
-good has paid 0 coins 
-Safe travels!
-
-The current ranking of the Team:
-Ranking    Player Name     Level     Force HP    Coins Job
-1          Good            10        8     100   158   Healer  
-2          good            5         15    100   63    Warrior  
+1          Good            4         1     0     16    Healer  
+2          good            4         5     0     22    Ninja  

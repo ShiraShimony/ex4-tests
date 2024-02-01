@@ -64,7 +64,7 @@ string getPlacePlayers(std::vector<std::pair<std::string,int>>& players, bool& b
     if(players.size() == 0) players = playersNames;
     int random_value = std::rand() % players.size();
     string toReturn = players[random_value].first;
-    if(random_value > 2) b = 1;
+    if(toReturn != "good" && toReturn != "Good" && toReturn != " good ") b = 1;
     players[random_value].second--;
     if(players[random_value].second == 0) {
         players.erase(players.begin() + random_value);
@@ -83,6 +83,7 @@ string getPlacePlayers(std::vector<std::pair<std::string,int>>& players, bool& b
     }
     return toReturn;
 }
+
 
 void createTextFile(const string &filename, const string &input)
 {

@@ -1,1 +1,143 @@
-Deck File Error: File format error in line 4
+Welcome to the world of MtmChkin!!!
+Please enter team size: (2-6)
+Please insert the player name and class: 
+Please insert the player name and class: 
+You have entered an invalid class. Please try again.
+Please insert the player name and class: 
+Please insert the player name and class: 
+Please insert the player name and class: 
+Please insert the player name and class: 
+
+-------------------------------------------
+Start of round 1:
+
+Start of good's turn: 
+Healers know how to use mana, you've gained 10 health points.
+Start of good's turn: 
+Player good has been defeated by a Dragon.
+Start of good's turn: 
+Player good has been defeated by a Dragon.
+Start of good's turn: 
+Nothing happened.
+Start of Good's turn: 
+Player Good has been defeated by a Dragon.
+Start of good's turn: 
+Player good has defeated Gremlin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          good            1         5     100   10    Healer  
+2          good            1         5     100   10    Ninja  
+3          good            2         5     100   12    Healer  
+4          Good            1         5     0     10    Ninja  
+5          good            1         5     0     10    Healer  
+6          good            1         5     0     10    Warrior  
+
+-------------------------------------------
+Start of round 2:
+
+Start of good's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of good's turn: 
+Player good has defeated Gremlin and rose 1 Level!
+Start of good's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          good            1         5     100   20    Healer  
+2          good            2         5     100   14    Ninja  
+3          good            2         5     90    12    Healer  
+4          Good            1         5     0     10    Ninja  
+5          good            1         5     0     10    Healer  
+6          good            1         5     0     10    Warrior  
+
+-------------------------------------------
+Start of round 3:
+
+Start of good's turn: 
+Player good has defeated Gremlin and rose 1 Level!
+Start of good's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of good's turn: 
+Player good has defeated Gremlin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          good            2         5     100   22    Healer  
+2          good            2         5     100   34    Ninja  
+3          good            3         5     90    14    Healer  
+4          Good            1         5     0     10    Ninja  
+5          good            1         5     0     10    Healer  
+6          good            1         5     0     10    Warrior  
+
+-------------------------------------------
+Start of round 4:
+
+Start of good's turn: 
+Healers know how to use mana, you've gained 10 health points.
+Start of good's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of good's turn: 
+Player good has defeated Gremlin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          good            2         5     100   22    Healer  
+2          good            2         5     100   54    Ninja  
+3          good            4         5     90    16    Healer  
+4          Good            1         5     0     10    Ninja  
+5          good            1         5     0     10    Healer  
+6          good            1         5     0     10    Warrior  
+
+-------------------------------------------
+Start of round 5:
+
+Start of good's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of good's turn: 
+Nothing happened.
+Start of good's turn: 
+Player good has been defeated by a Dragon.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          good            2         5     100   32    Healer  
+2          good            2         5     100   54    Ninja  
+3          good            4         5     0     16    Healer  
+4          Good            1         5     0     10    Ninja  
+5          good            1         5     0     10    Healer  
+6          good            1         5     0     10    Warrior  
+
+-------------------------------------------
+Start of round 6:
+
+Start of good's turn: 
+Player good has been defeated by a Dragon.
+Start of good's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          good            2         5     100   54    Ninja  
+2          good            2         5     0     32    Healer  
+3          good            4         5     0     16    Healer  
+4          Good            1         5     0     10    Ninja  
+5          good            1         5     0     10    Healer  
+6          good            1         5     0     10    Warrior  
+
+-------------------------------------------
+Start of round 7:
+
+Start of good's turn: 
+Player good has been defeated by a Dragon.
+The Game has ended!!!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          good            2         5     0     54    Ninja  
+2          good            2         5     0     32    Healer  
+3          good            4         5     0     16    Healer  
+4          Good            1         5     0     10    Ninja  
+5          good            1         5     0     10    Healer  
+6          good            1         5     0     10    Warrior  

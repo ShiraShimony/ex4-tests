@@ -1,1 +1,415 @@
-Deck File Error: File format error in line 3
+Welcome to the world of MtmChkin!!!
+Please enter team size: (2-6)
+Please insert the player name and class: 
+Please insert the player name and class: 
+You have entered an invalid class. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid name. Please try again.
+You have entered an invalid class. Please try again.
+
+-------------------------------------------
+Start of round 1:
+
+Start of Good's turn: 
+Player Good has defeated Gremlin and rose 1 Level!
+Start of veryVeryVeryBad's turn: 
+Player veryVeryVeryBad has defeated Witch and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            2         5     100   12    Warrior  
+2          veryVeryVeryBad 2         5     100   12    Warrior  
+
+-------------------------------------------
+Start of round 2:
+
+Start of Good's turn: 
+Nothing happened.
+Start of veryVeryVeryBad's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            2         5     100   12    Warrior  
+2          veryVeryVeryBad 2         5     100   12    Warrior  
+
+-------------------------------------------
+Start of round 3:
+
+Start of Good's turn: 
+Player Good has defeated Witch and rose 1 Level!
+Start of veryVeryVeryBad's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            3         5     100   14    Warrior  
+2          veryVeryVeryBad 2         5     100   12    Warrior  
+
+-------------------------------------------
+Start of round 4:
+
+Start of Good's turn: 
+Player Good has defeated Witch and rose 1 Level!
+Start of veryVeryVeryBad's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            4         5     100   16    Warrior  
+2          veryVeryVeryBad 2         5     90    12    Warrior  
+
+-------------------------------------------
+Start of round 5:
+
+Start of Good's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of veryVeryVeryBad's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            4         5     100   26    Warrior  
+2          veryVeryVeryBad 2         5     80    12    Warrior  
+
+-------------------------------------------
+Start of round 6:
+
+Start of Good's turn: 
+You've won the scuffle without losing any health points.
+Start of veryVeryVeryBad's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            4         5     100   26    Warrior  
+2          veryVeryVeryBad 2         5     80    12    Warrior  
+
+-------------------------------------------
+Start of round 7:
+
+Start of Good's turn: 
+Player Good has defeated Gremlin and rose 1 Level!
+Start of veryVeryVeryBad's turn: 
+Player veryVeryVeryBad has defeated Witch and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            5         5     100   28    Warrior  
+2          veryVeryVeryBad 3         5     80    14    Warrior  
+
+-------------------------------------------
+Start of round 8:
+
+Start of Good's turn: 
+Nothing happened.
+Start of veryVeryVeryBad's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            5         5     100   28    Warrior  
+2          veryVeryVeryBad 3         5     80    14    Warrior  
+
+-------------------------------------------
+Start of round 9:
+
+Start of Good's turn: 
+Player Good has defeated Witch and rose 1 Level!
+Start of veryVeryVeryBad's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            6         5     100   30    Warrior  
+2          veryVeryVeryBad 3         5     80    14    Warrior  
+
+-------------------------------------------
+Start of round 10:
+
+Start of Good's turn: 
+Player Good has defeated Witch and rose 1 Level!
+Start of veryVeryVeryBad's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            7         5     100   32    Warrior  
+2          veryVeryVeryBad 3         5     70    14    Warrior  
+
+-------------------------------------------
+Start of round 11:
+
+Start of Good's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+Start of veryVeryVeryBad's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            7         5     100   42    Warrior  
+2          veryVeryVeryBad 3         5     60    14    Warrior  
+
+-------------------------------------------
+Start of round 12:
+
+Start of Good's turn: 
+You've won the scuffle without losing any health points.
+Start of veryVeryVeryBad's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            7         5     100   42    Warrior  
+2          veryVeryVeryBad 3         5     60    14    Warrior  
+
+-------------------------------------------
+Start of round 13:
+
+Start of Good's turn: 
+Player Good has defeated Gremlin and rose 1 Level!
+Start of veryVeryVeryBad's turn: 
+Player veryVeryVeryBad has defeated Witch and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            8         5     100   44    Warrior  
+2          veryVeryVeryBad 4         5     60    16    Warrior  
+
+-------------------------------------------
+Start of round 14:
+
+Start of Good's turn: 
+Nothing happened.
+Start of veryVeryVeryBad's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            8         5     100   44    Warrior  
+2          veryVeryVeryBad 4         5     60    16    Warrior  
+
+-------------------------------------------
+Start of round 15:
+
+Start of Good's turn: 
+Player Good has defeated Witch and rose 1 Level!
+Start of veryVeryVeryBad's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            9         5     100   46    Warrior  
+2          veryVeryVeryBad 4         5     60    16    Warrior  
+
+-------------------------------------------
+Start of round 16:
+
+Start of Good's turn: 
+Player Good has defeated Witch and rose 1 Level!
+Start of veryVeryVeryBad's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            10        5     100   48    Warrior  
+2          veryVeryVeryBad 4         5     50    16    Warrior  
+
+-------------------------------------------
+Start of round 17:
+
+Start of veryVeryVeryBad's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            10        5     100   48    Warrior  
+2          veryVeryVeryBad 4         5     50    26    Warrior  
+
+-------------------------------------------
+Start of round 18:
+
+Start of veryVeryVeryBad's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            10        5     100   48    Warrior  
+2          veryVeryVeryBad 4         5     40    26    Warrior  
+
+-------------------------------------------
+Start of round 19:
+
+Start of veryVeryVeryBad's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            10        5     100   48    Warrior  
+2          veryVeryVeryBad 4         5     40    26    Warrior  
+
+-------------------------------------------
+Start of round 20:
+
+Start of veryVeryVeryBad's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            10        5     100   48    Warrior  
+2          veryVeryVeryBad 4         5     40    26    Warrior  
+
+-------------------------------------------
+Start of round 21:
+
+Start of veryVeryVeryBad's turn: 
+Player veryVeryVeryBad has defeated Gremlin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            10        5     100   48    Warrior  
+2          veryVeryVeryBad 5         5     40    28    Warrior  
+
+-------------------------------------------
+Start of round 22:
+
+Start of veryVeryVeryBad's turn: 
+Player veryVeryVeryBad has defeated Witch and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            10        5     100   48    Warrior  
+2          veryVeryVeryBad 6         5     40    30    Warrior  
+
+-------------------------------------------
+Start of round 23:
+
+Start of veryVeryVeryBad's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            10        5     100   48    Warrior  
+2          veryVeryVeryBad 6         5     40    30    Warrior  
+
+-------------------------------------------
+Start of round 24:
+
+Start of veryVeryVeryBad's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            10        5     100   48    Warrior  
+2          veryVeryVeryBad 6         5     40    30    Warrior  
+
+-------------------------------------------
+Start of round 25:
+
+Start of veryVeryVeryBad's turn: 
+Player veryVeryVeryBad has defeated Witch and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            10        5     100   48    Warrior  
+2          veryVeryVeryBad 7         5     40    32    Warrior  
+
+-------------------------------------------
+Start of round 26:
+
+Start of veryVeryVeryBad's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            10        5     100   48    Warrior  
+2          veryVeryVeryBad 7         5     40    32    Warrior  
+
+-------------------------------------------
+Start of round 27:
+
+Start of veryVeryVeryBad's turn: 
+Player veryVeryVeryBad has defeated Witch and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            10        5     100   48    Warrior  
+2          veryVeryVeryBad 8         5     40    34    Warrior  
+
+-------------------------------------------
+Start of round 28:
+
+Start of veryVeryVeryBad's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            10        5     100   48    Warrior  
+2          veryVeryVeryBad 8         5     30    34    Warrior  
+
+-------------------------------------------
+Start of round 29:
+
+Start of veryVeryVeryBad's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            10        5     100   48    Warrior  
+2          veryVeryVeryBad 8         5     30    44    Warrior  
+
+-------------------------------------------
+Start of round 30:
+
+Start of veryVeryVeryBad's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            10        5     100   48    Warrior  
+2          veryVeryVeryBad 8         5     20    44    Warrior  
+
+-------------------------------------------
+Start of round 31:
+
+Start of veryVeryVeryBad's turn: 
+You've won the scuffle without losing any health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            10        5     100   48    Warrior  
+2          veryVeryVeryBad 8         5     20    44    Warrior  
+
+-------------------------------------------
+Start of round 32:
+
+Start of veryVeryVeryBad's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            10        5     100   48    Warrior  
+2          veryVeryVeryBad 8         5     20    44    Warrior  
+
+-------------------------------------------
+Start of round 33:
+
+Start of veryVeryVeryBad's turn: 
+Player veryVeryVeryBad has defeated Gremlin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            10        5     100   48    Warrior  
+2          veryVeryVeryBad 9         5     20    46    Warrior  
+
+-------------------------------------------
+Start of round 34:
+
+Start of veryVeryVeryBad's turn: 
+Player veryVeryVeryBad has defeated Witch and rose 1 Level!
+The Game has ended!!!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            10        5     100   48    Warrior  
+2          veryVeryVeryBad 10        5     20    48    Warrior  

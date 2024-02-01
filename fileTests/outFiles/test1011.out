@@ -1,1 +1,106 @@
-Deck File Error: File format error in line 3
+Welcome to the world of MtmChkin!!!
+Please enter team size: (2-6)
+Please insert the player name and class: 
+Please insert the player name and class: 
+
+-------------------------------------------
+Start of round 1:
+
+Start of good's turn: 
+Player good has been defeated by a Dragon.
+Start of Good's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            1         5     100   20    Warrior  
+2          good            1         5     0     10    Warrior  
+
+-------------------------------------------
+Start of round 2:
+
+Start of Good's turn: 
+Player Good has defeated Gremlin and rose 1 Level!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            2         5     100   22    Warrior  
+2          good            1         5     0     10    Warrior  
+
+-------------------------------------------
+Start of round 3:
+
+Start of Good's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            2         5     100   22    Warrior  
+2          good            1         5     0     10    Warrior  
+
+-------------------------------------------
+Start of round 4:
+
+Start of Good's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            2         5     100   22    Warrior  
+2          good            1         5     0     10    Warrior  
+
+-------------------------------------------
+Start of round 5:
+
+Start of Good's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            2         5     90    22    Warrior  
+2          good            1         5     0     10    Warrior  
+
+-------------------------------------------
+Start of round 6:
+
+Start of Good's turn: 
+You've stumbled into a pile of coins! you've gained 10 gold.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            2         5     90    32    Warrior  
+2          good            1         5     0     10    Warrior  
+
+-------------------------------------------
+Start of round 7:
+
+Start of Good's turn: 
+Nothing happened.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            2         5     90    32    Warrior  
+2          good            1         5     0     10    Warrior  
+
+-------------------------------------------
+Start of round 8:
+
+Start of Good's turn: 
+You fell into the trap, lose 10 health points.
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            2         5     80    32    Warrior  
+2          good            1         5     0     10    Warrior  
+
+-------------------------------------------
+Start of round 9:
+
+Start of Good's turn: 
+Player Good has been defeated by a Dragon.
+The Game has ended!!!
+
+The current ranking of the Team:
+Ranking    Player Name     Level     Force HP    Coins Job
+1          Good            2         5     0     32    Warrior  
+2          good            1         5     0     10    Warrior  
